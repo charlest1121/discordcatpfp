@@ -31,7 +31,7 @@ npm install node-fetch
 
 2. Navigate to the project directory.
 
-3. Run the script with Node.js:
+3. Run the script with Node.js(linux, git bash):
 
 ```bash
 /usr/bin/node ./test.js
@@ -46,7 +46,3 @@ You can modify the script to change the frequency of picture changes or use a di
 ## Disclaimer
 
 This project is not affiliated with Discord. Use at your own risk. Always comply with Discord's Terms of Service.
-
----
-
-Ensure you replace placeholders (like the project directory or specific file names) with actual information relevant to your project.
