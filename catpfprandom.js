@@ -25,4 +25,4 @@ client.on('ready', async () => {
   }, 60000); // Change every 60 seconds
 });
 
-client.login('DISCORD_TOKEN');
+client.login('YOUR_TOKEN_HERE');
